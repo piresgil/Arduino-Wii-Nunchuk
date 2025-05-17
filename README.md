@@ -29,6 +29,10 @@ Biblioteca "Mouse" (https://github.com/arduino-libraries/Mouse)
 
 ![MainAOO](Sketches/Sreenshots/arduino.png)
 
-### Controlador reciclado Wii-Nunchuck:
+### Controlador Wii-Nunchuck:
 
-![MainAOO](Sketches/Sreenshots/WiiNunchuck.png)
+(Reciclado)
+
+<p align="center">
+  <img src="Sketches/Sreenshots/WiiNunchuck.png" alt="MainAOO" />
+</p>
