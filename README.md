@@ -8,8 +8,10 @@
 @author Daniel Gil
 
 # Arduino-Wii-Nunchuk
-
-![MainAOO](Sketches/Sreenshots/Demo.gif)
+#### Department
+<p align="center">
+  <img src="Sketches/Sreenshots/Demo.gif" alt="MainAOO" />
+</p>
 
 Projetos em Arduino, que utiliza um velho controlador da wii(Nunchuk), que pode atuar como um joystick para jogos, ou então como um simples rato/mouse.
 
