@@ -9,6 +9,8 @@
 
 # Arduino-Wii-Nunchuk
 
+![MainAOO](Sketches/Sreenshots/Demo.gif)
+
 Projetos em Arduino, que utiliza um velho controlador da wii(Nunchuk), que pode atuar como um joystick para jogos, ou então como um simples rato/mouse.
 
 ### Protocolo I²C (Inter-Integrated Circuit)
@@ -31,11 +33,3 @@ Biblioteca "Mouse" (https://github.com/arduino-libraries/Mouse)
 ### Controlador reciclado Wii-Nunchuck:
 
 ![MainAOO](Sketches/Sreenshots/WiiNunchuck.png)
-
-### Demo:
-
-![MainAOO](Sketches/Sreenshots/Demo.gif)
-
-
-
-# Arduino-Wii-Nunchuk
