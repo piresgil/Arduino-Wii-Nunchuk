@@ -23,12 +23,6 @@ Biblioteca "Arduino Joystick Library" (https://github.com/MHeironimus/ArduinoJoy
 ## Rato/Mouse
 Biblioteca "Mouse" (https://github.com/arduino-libraries/Mouse)
 
-### Esquema de ligação:
-
-![MainAOO](Sketches/Sreenshots/ArduinoWiiNunchuck.png)
-
-![MainAOO](Sketches/Sreenshots/arduino.png)
-
 ### Controlador Wii-Nunchuck:
 
 (Reciclado)
@@ -36,3 +30,9 @@ Biblioteca "Mouse" (https://github.com/arduino-libraries/Mouse)
 <p align="center">
   <img src="Sketches/Sreenshots/WiiNunchuck.png" alt="MainAOO" />
 </p>
+
+### Esquema de ligação:
+
+![MainAOO](Sketches/Sreenshots/ArduinoWiiNunchuck.png)
+
+![MainAOO](Sketches/Sreenshots/arduino.png)
